@@ -1,5 +1,7 @@
 # Graph Notes
 
+This is for my learning purpose. 
+
 ## [Graphs 1](https://github.com/umarf2212/graph-notes/blob/main/Graphs%201.pdf)
 
 - Graph Representation
