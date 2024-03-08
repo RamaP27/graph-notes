@@ -1,6 +1,9 @@
 # Graph Notes
 
 This is for my learning purpose. 
+Depth-First Search (DFS) is a graph traversal algorithm that explores as far as possible along each branch before backtracking. It uses a stack to keep track of visited vertices and backtracks when necessary.
+
+Breadth-First Search (BFS) is a graph traversal algorithm that explores all vertices at the current depth before moving to the next level. It uses a queue to keep track of visited vertices and ensures that closer vertices are explored first.
 
 ## [Graphs 1](https://github.com/umarf2212/graph-notes/blob/main/Graphs%201.pdf)
 
